@@ -1,0 +1,1 @@
+TURANPET — GitHub Pages build (relative paths). Дата сборки: 2025-09-25
